@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [scottydphillips.github.io/react-portfolio](scottydphillips.github.io/react-portfolio)
 
-- 📄 Know about my experiences [https://scottydphillips.github.io/react-portfolio/static/media/ScottPhillipsTechResume2022.d171b7c4.pdf](https://scottydphillips.github.io/react-portfolio/static/media/ScottPhillipsTechResume2022.d171b7c4.pdf)
+- 📄 Know about my experiences [https://scottydphillips.github.io/react-portfolio/static/media/ScottPhillipsTechResume2024.5de18d3e.pdf](https://scottydphillips.github.io/react-portfolio/static/media/ScottPhillipsTechResume2024.5de18d3e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
